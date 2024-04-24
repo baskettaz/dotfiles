@@ -1,0 +1,15 @@
+# Note:
+# Aliases are not (!) interactive, means won't work in shell scripts
+
+
+alias ll='ls -lah'
+alias d='dirs -v'
+for index ({1..9}) alias "$index"="cd +#{index}"; unset index
+
+#######
+# GIT #
+#######
+
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push'

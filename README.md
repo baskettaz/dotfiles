@@ -14,3 +14,11 @@ I'll try to keep up with the iterations of the installation files and to documen
 The structure and the logic of the files and folders aren't clear enough. To try to reogranize them, MindMaps will be used to make them much more accessible and comprehensive (There is an issue with the choice of the MindMap program, which will be used, because it will make unwanted **dependency**. For the moment the choice is on miro.com, but draw.io is also a good option.To be decided later ...)
 
 
+# Hard times :
+
+date: 30/04/2024
+
+As expected the setting up of the terminal went not good at all and must be redone from the begining. For this purpose I will take some help from the `dotfiles` of Phantas0s ...
+
+
+
